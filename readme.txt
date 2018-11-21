@@ -4,4 +4,4 @@ Git is a free software.dsdddDSd.
 mijiang
 
 
-creatint a new branch is quick
+creatint a new branch is quick AND simple.
